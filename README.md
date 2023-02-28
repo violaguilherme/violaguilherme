@@ -1,6 +1,6 @@
 ### Hey!!
 
-- ☢ I’m currently learning: JavaScript, MySQL, Nodejs, Git, HTML, CSS
+- ☢ I’m currently learning: JavaScript, SQL, Nodejs, Git, HTML, CSS
 
 <div align="center">
   <a href="https://violaguilherme.github.io/my-profile/">
