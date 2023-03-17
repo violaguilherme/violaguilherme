@@ -1,19 +1,11 @@
 ### Hey!!
 
-- ☢ I’m currently learning: JavaScript, SQL, Nodejs, Git, HTML, CSS
+- ☢ I’m currently learning: Typescript, JavaScript, React, React Native, SQL, Nodejs, Git, HTML, CSS
 
 <div align="center">
   <a href="https://violaguilherme.github.io/my-profile/">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=violaguilherme&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violaguilherme&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
-  <img align="center" alt="Gui-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Gui-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
