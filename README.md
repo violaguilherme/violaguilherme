@@ -1,6 +1,6 @@
 ### Hey!!
 
-- ☢ I’m currently learning: Typescript, JavaScript, React, React Native, SQL, Nodejs, Git, HTML, CSS
+- ☢ I’m currently learning: Typescript, React, SQL, Nodejs, HTML, CSS
 
 <div align="center">
   <a href="https://violaguilherme.github.io/my-profile/">
