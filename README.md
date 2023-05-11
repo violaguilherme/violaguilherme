@@ -1,4 +1,4 @@
-- ☢ I’m currently learning: Typescript, React, SQL, Nodejs, HTML, CSS
+- ☢ I’m currently learning: Typescript && Javascript && React && SQL && Nodejs && HTML && CSS
 
 <div align="center">
   <a href="https://violaguilherme.github.io/my-profile/">
